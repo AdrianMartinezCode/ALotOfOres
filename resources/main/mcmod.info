@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ejemplo",
+  "name": "Ejemplo de mod",
+  "description": "Un mod de ejemplo.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Piltraoner"],
+  "credits": "Piltraoner's Mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
