@@ -1,6 +1,6 @@
-tile.Lead Ore.name=Lead Ore
-tile.Lead Block.name=Lead Block
-tile.Titanium Ore.name=Titanium Ore
-tile.Titanium Block.name=Titanium Block
-item.Lead Ingot.name=Lead Ingot
-item.Titanium Ingot.name=Titanium Ingot
+tile.LeadOre.name=Lead Ore
+tile.LeadBlock.name=Lead Block
+tile.TitaniumOre.name=Titanium Ore
+tile.TitaniumBlock.name=Titanium Block
+item.LeadIngot.name=Lead Ingot
+item.TitaniumIngot.name=Titanium Ingot

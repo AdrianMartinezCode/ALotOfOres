@@ -1,8 +1,8 @@
 [
 {
-  "modid": "ejemplo",
-  "name": "Ejemplo de mod",
-  "description": "Un mod de ejemplo.",
+  "modid": "Alotofores",
+  "name": "A lot of ores",
+  "description": "Your ores mod.",
   "version": "1.0",
   "mcversion": "1.7.10",
   "url": "",

@@ -7,7 +7,7 @@ import net.minecraft.alotofores.lib.RefStrings;
 
 public class ItemLeadIngot extends Item {
 	public ItemLeadIngot(int i) {
-		this.setUnlocalizedName("Lead Ingot");
+		this.setUnlocalizedName("LeadIngot");
 		this.setCreativeTab(CreativeTabs.tabMaterials);
 		this.setTextureName(RefStrings.MODID + ":" + "LeadIngot");
 	}

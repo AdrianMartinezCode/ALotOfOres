@@ -36,7 +36,7 @@ public class Alotofores {
 		//Bloque Ore de plomo.
 		public static final Block LeadOre = new BlockLeadOre(45501, Material.rock);
 		//Bloque de plomo.
-		public static final Block LeadBlock = new BlockLeadBlock(45502, Material.iron).setBlockName("Lead Block");
+		public static final Block LeadBlock = new BlockLeadBlock(45502, Material.iron);
 		//Lingote de plomo.
 		public static final Item LeadIngot = new ItemLeadIngot(45503);
 		
@@ -57,23 +57,23 @@ public class Alotofores {
 			
 			
 			/*------------ Plomo ------------*/
-			GameRegistry.registerBlock(LeadOre, "Lead Ore");
+			GameRegistry.registerBlock(LeadOre, "LeadOre");
 			//LanguageRegistry.addName(LeadOre, "Lead Ore");
 			
-			GameRegistry.registerBlock(LeadBlock, "Lead Block");
+			GameRegistry.registerBlock(LeadBlock, "LeadBlock");
 			//LanguageRegistry.addName(LeadBlock, "Lead Block");
 			
-			GameRegistry.registerItem(LeadIngot, "Lead Ingot");
+			GameRegistry.registerItem(LeadIngot, "LeadIngot");
 			//LanguageRegistry.addName(LeadIngot, "Lead Ingot");
 			
 			/*------------ Titanio ------------*/
-			GameRegistry.registerBlock(TitaniumOre, "Titanium Ore");
+			GameRegistry.registerBlock(TitaniumOre, "TitaniumOre");
 			//LanguageRegistry.addName(TitaniumOre, "Titanium Ore");
 			
-			GameRegistry.registerBlock(TitaniumBlock, "Titanium Block");
+			GameRegistry.registerBlock(TitaniumBlock, "TitaniumBlock");
 			//LanguageRegistry.addName(TitaniumBlock, "Titanium Block");
 			
-			GameRegistry.registerItem(TitaniumIngot, "Titanium Ingot");
+			GameRegistry.registerItem(TitaniumIngot, "TitaniumIngot");
 			//LanguageRegistry.addName(TitaniumIngot, "Titanium Ingot");
 		}
 		
